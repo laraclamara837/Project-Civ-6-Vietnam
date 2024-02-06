@@ -30,7 +30,7 @@
 		"outerColor": [247,216,1],
 		"innerColor": [117,0,115],
 		"uniqueName": "Nine Dragon River Delta",
-                "uniques": ["[+2 Culture] from every [Forest] tile", "[+2 Science] from every [Jungle] tile", "[+2 Production] from every [Marsh] tile", "[All] [Land] [Military] unit gain the [Drill II] promotion"],
+                "uniques": ["[+2 Culture] from every [Forest] tile","[+2 Science] from every [Jungle] tile","[+2 Production] from every [Marsh] tile","[All] [Land] [Military] unit gain the [Drill II] promotion"],
 
 		"favoredReligion": "Buddhism",
 		"cities": ["Thăng Long","Huế","Hoa Lư","Trà Kiệu","Đồng Hới","Quảng Trị","Đà Nẵng","Cần Thơ","Con Cuông","Hội An",
