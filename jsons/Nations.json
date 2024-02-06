@@ -27,15 +27,16 @@
 		"afterPeace": "We will March and Destroy You, Your Nation does not deserve A Tyrant like You, And Đại Việt will Remember This!",
 		"tradeRequest": "Đại Việt Bestow This Great Offer to you.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [247,216,1],
+		"innerColor": [117,0,115],
 		"uniqueName": "Nine Dragon River Delta",
                 "uniques": ["[+2 Culture] from every [Forest] tile", "[+2 Science] from every [Jungle] tile", "[+2 Production] from every [Marsh] tile", "[All] [Land] [Military] unit gain the [Drill II] promotion"],
 
 		"favoredReligion": "Buddhism",
 		"cities": ["Thăng Long","Huế","Hoa Lư","Trà Kiệu","Đồng Hới","Quảng Trị","Đà Nẵng","Cần Thơ","Con Cuông","Hội An",
-                "Mỹ Tho","Quy Nhơn","Sài Gòn","Đà Lạt","Hải Phòng","Biên Hòa","Nha Trang","Rạch Giá","Long Biên","Nam Định",
-                "Vinh","Thái Nguyên","Hạ Long","Vũng Tàu","Thanh Hóa","Buôn Ma Thuột","Việt Trì","Hải Dương","Thủ Dầu Một","Bắc Ninh",
-                "Phan Thiết","Cà Mau","Tuy Hòa","Long Xuyên","Phan Rang","Châu Đốc","Tháp Chàm","Thái Bình","Cẩm Phả","Sa Đéc","Pleiku"]
+                        "Mỹ Tho","Quy Nhơn","Sài Gòn","Đà Lạt","Hải Phòng","Biên Hòa","Nha Trang","Rạch Giá","Long Biên","Nam Định",
+                        "Vinh","Thái Nguyên","Hạ Long","Vũng Tàu","Thanh Hóa","Buôn Ma Thuột","Việt Trì","Hải Dương","Thủ Dầu Một","Bắc Ninh",
+                        "Phan Thiết","Cà Mau","Tuy Hòa","Long Xuyên","Phan Rang","Châu Đốc","Tháp Chàm","Thái Bình","Cẩm Phả","Sa Đéc","Pleiku"],
+		"spyNames": ["Nguyễn Tuấn", "Hồ Chí Minh", "Nguyễn Thị Minh Khai", "Phan Hằng", "Ngô Đông", "Trần Vân", "Lê An", "Đặng Kim", "Lý Chiến", "Đỗ Phương"],
 	}
 ]
