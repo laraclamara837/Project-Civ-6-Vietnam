@@ -12,7 +12,7 @@
 		"requiredTech": "Machinery",
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Industrialization",
-		"uniques"["Can move after attacking","No defensive terrain bonus"],
+		"uniques" ["Can move after attacking","No defensive terrain bonus"],
 		"promotions": ["Drill III","Home Sweet Home","Extended Range"],
 		"attackSound": "crossbow"
 	}
