@@ -1,5 +1,5 @@
-# Unciv-mod-example
+# Unciv-mod-Vietnam-Civ-6
 
-An example mod for Unciv, that adds one new Civilization.
+add Annam to The Game.
 
 For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
