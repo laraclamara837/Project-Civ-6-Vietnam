@@ -3,11 +3,12 @@
 		"name": "Thành",
 		"replaces": "Barracks",
 		"uniqueTo": "Đại Việt",
+		"maintenance": 1,
 		"cost": 27,
 		"hurryCostModifier": 100,
 		"culture": 2,
 		"gold": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
+		"uniques": ["New [Military] units start with [30] Experience [in this city]",""],
 		"requiredTech": "Engineering"
 	}
 ]
