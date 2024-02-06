@@ -1,13 +1,13 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "Đại Việt",
+		"leaderName": "Bà Triệu",
+		"adjective": ["Vietnamese"],
+		"startBias": ["Jungle"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "northern Vietnam was occupied by the Wu Kingdom – one of three Chinese kingdoms that were struggling for power across the continent. It would have been a tense situation – the Wu already on edge and nervous in their occupation of what they considered a “barbarian south,” and the Vietnamese constantly agitating for independence, Bà Triệu The People need Your Guidance in This Tough Time, Be Fierce and Wise and Do Not let Those Aggressors Fool You and Your Army, Will You lead The Vietnamese people Into a Glory Day, or Shall Your Aggressor make Theirs, Bà Triệu, It is For You To Decide what Best For Đại Việt, Will You Hold The Legacy of The Trưng Sisters and avenge Them, Or Will You Turn Into ash and Be forgatten.",
+		"startIntroPart2": "Bà Triệu, your people will remember you as a goddess. Stand against those who would try to rein in your storm, and raise your sword in defiance. Neither family nor foe will hold you back, Will You be able to stand The Test of Time? or Will You Perish and Only Lefting a Legacy Like The Trưng Sisters.",
 		
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
 		"attacked": "You want to play? Very funny!",
