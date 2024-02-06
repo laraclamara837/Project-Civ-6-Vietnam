@@ -12,7 +12,7 @@
 		"requiredTech": "Machinery",
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Industrialization",
-		"uniques" ["Can move after attacking", "No defensive terrain bonus", "[+25]% Strength <vs cities> <when attacking>"],
+		" ["Can move after attacking", "No defensive terrain bonus", "[+25]% Strength <vs cities> <when attacking>"],
 		"promotions": ["Drill III","Home Sweet Home","Extended Range"],
 		"attackSound": "crossbow"
 	}
