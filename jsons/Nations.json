@@ -29,10 +29,10 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"uniqueName": "Nine Dragon River Delta",
+		"cities": ["Thăng Long","Huế","Hoa Lư","Trà Kiệu","Đồng Hới","Quảng Trị","Đà Nẵng","Cần Thơ","Con Cuông","Hội An",
+                "Mỹ Tho","Quy Nhơn","Sài Gòn","Đà Lạt","Hải Phòng","Biên Hòa","Nha Trang","Rạch Giá","Long Biên","Nam Định",
+                "Vinh","Thái Nguyên","Hạ Long","Vũng Tàu","Thanh Hóa","Buôn Ma Thuột","Việt Trì","Hải Dương","Thủ Dầu Một","Bắc Ninh",
+                "Phan Thiết","Cà Mau","Tuy Hòa","Long Xuyên","Phan Rang","Châu Đốc","Tháp Chàm","Thái Bình","Cẩm Phả","Sa Đéc","Pleiku"]
 	}
 ]
