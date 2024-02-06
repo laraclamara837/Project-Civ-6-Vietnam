@@ -3,16 +3,17 @@
 		"name": "Voi Chiến",
 		"unitType": "Mounted",
 		"uniqueTo": "Đại Việt",
-		"movement": 4,
+		"movement": 5,
 		"strength": 20,
-		"rangedStrength": 14,
+		"rangedStrength": 20,
 		"range": 4,
 		"replaces": "Crossbowman",
-		"cost": 120,
+		"cost": 135,
 		"requiredTech": "Machinery",
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Industrialization",
-		"promotions": [""],
+		"uniques"["Can move after attacking","No defensive terrain bonus"],
+		"promotions": ["Drill III","Home Sweet Home","Extended Range"],
 		"attackSound": "crossbow"
 	}
 ]
