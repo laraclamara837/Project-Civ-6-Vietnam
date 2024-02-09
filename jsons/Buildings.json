@@ -3,6 +3,8 @@
 		"name": "Thành",
 		"replaces": "Barracks",
 		"uniqueTo": "Đại Việt",
+		"cityStrength": 30,
+		"cityHealth": 150,
 		"maintenance": 1,
 		"cost": 27,
 		"hurryCostModifier": 100,
